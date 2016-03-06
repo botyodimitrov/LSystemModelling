@@ -51,7 +51,7 @@
 //2.Set of predefined Rules
 //*************************************************
 //rule template (leftcontext, current char, rightcontext, replacement)
-//a - not working
+//a 
 // axiom F1F1F1 angle 0.33 height 0.009 29
 //ruleset [0] = new Rule("0", '0', "0", "0");
 //ruleset [1] = new Rule("0", '0', "1", "1[+F1F1]");  
